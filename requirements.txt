@@ -1,3 +1,4 @@
+setuptools==57.5.0
 altair==5.5.0
 attrs==24.3.0
 blinker==1.9.0
@@ -61,4 +62,3 @@ umf==0.9.1
 urllib3==2.2.3
 watchdog==6.0.0
 xgboost==1.7.1
-setuptools==57.5.0
