@@ -60,7 +60,6 @@ toml==0.10.2
 tomli==2.2.1
 tornado==6.4.2
 typing_extensions==4.12.2
-tzdata @ file:///croot/python-tzdata_1690578112552/work
 umf==0.9.1
 urllib3==2.2.3
 watchdog==6.0.0
