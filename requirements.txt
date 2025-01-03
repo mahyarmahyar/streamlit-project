@@ -61,4 +61,4 @@ typing_extensions==4.12.2
 umf==0.9.1
 urllib3==2.2.3
 watchdog==6.0.0
-xgboost==1.7.1
+xgboost==1.5.2
