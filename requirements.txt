@@ -28,7 +28,7 @@ mkl==2025.0.1
 mkl-service==2.4.2
 narwhals==1.19.0
 numexpr==2.8.4
-numpy==1.18.3
+numpy==1.25.0
 packaging==24.2
 pandas==1.5.3
 pillow==11.0.0
